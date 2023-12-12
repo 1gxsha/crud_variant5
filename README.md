@@ -1,4 +1,4 @@
-# crud_variant
+# crud_variant5
 
 Добавление: 
 ![image](https://github.com/1gxsha/crud_variant5/assets/114615161/110ae974-3931-4801-8a7c-178fd9fe1340)
@@ -11,6 +11,9 @@
 Удаление:
 ![image](https://github.com/1gxsha/crud_variant5/assets/114615161/884d2258-888d-405e-80b6-d73685c4c5c8)
 ![image](https://github.com/1gxsha/crud_variant5/assets/114615161/44b12742-2deb-4381-bbb5-a096dbd0d683)
+
+![image](https://github.com/1gxsha/crud_variant5/assets/114615161/2ff4342f-3a74-4ed7-961b-a75d1bb87332)
+
 
 
 
